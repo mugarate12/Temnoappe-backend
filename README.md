@@ -13,7 +13,6 @@ RESTful API para teste técnico no Temnoappê
 
 - **[Node.js e NPM](https://www.nodejs.org/)** (suportadas versões: 10.x.x)
 - **[MYSQL](https://www.mysql.com/)**
-- **[Redis](https://redis.io/)**
 - **[PM2](https://pm2.io/docs/plus/overview/)**
 
 ## Instalação
